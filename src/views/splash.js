@@ -59,7 +59,7 @@ const Splash = (props) => {
           <div className="splash-frame597">
             <img
               alt="Rectangle45181"
-              src="/external/rectangle45181-i4i2l-1000h.png"
+              src="/external/rectangle45181-i4i2l-700w.png"
               className="splash-rectangle4"
             />
           </div>

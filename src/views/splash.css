@@ -20,13 +20,10 @@
 }
 .splash-frame605 {
   gap: 10px;
-  top: 24px;
-  right: 0px;
   width: 621px;
   height: 91px;
   display: flex;
   padding: 20px 10px;
-  position: absolute;
   align-items: flex-start;
   flex-shrink: 0;
   justify-content: flex-end;
@@ -65,7 +62,7 @@
   height: 20px;
 }
 .splash-container2 {
-  top: -36px;
+  top: var(--dl-space-space-unit);
   flex: 0 0 auto;
   left: 637px;
   height: 100%;
@@ -76,14 +73,14 @@
 }
 .splash-frame602 {
   gap: 64px;
-  top: 312px;
-  right: -694px;
   height: 500px;
   display: flex;
-  position: absolute;
-  align-self: flex-start;
+  flex-wrap: wrap;
+  align-self: flex-end;
+  margin-top: 200px;
   align-items: center;
   flex-shrink: 0;
+  margin-left: 240px;
   flex-direction: column;
 }
 .splash-gigglr0111 {
@@ -196,21 +193,25 @@
   z-index: 100;
   position: absolute;
   align-self: center;
-  align-items: flex-start;
+  align-items: stretch;
   flex-direction: column;
+  justify-content: space-between;
 }
 .splash-frame599 {
   gap: 70px;
+  height: 100%;
   display: flex;
   position: relative;
   align-items: center;
   flex-direction: column;
 }
 .splash-frame597 {
+  top: -1px;
+  left: 13px;
   width: 668px;
-  height: 628px;
+  height: auto;
   display: flex;
-  position: relative;
+  position: absolute;
   align-items: flex-start;
   flex-shrink: 0;
 }
@@ -218,15 +219,15 @@
   top: -54px;
   left: -130px;
   width: 668px;
-  height: 939px;
+  height: auto;
   position: absolute;
   border-radius: 15px;
 }
 .splash-frame598 {
   gap: 43px;
-  left: 94px;
+  left: 38px;
   width: 480px;
-  bottom: 0px;
+  bottom: -707px;
   height: 120px;
   display: flex;
   position: absolute;
@@ -234,10 +235,10 @@
   justify-content: flex-start;
 }
 .splash-text10 {
-  top: -24px;
-  left: -18px;
+  left: -60px;
   color: var(--dl-color-neutral_01-stillfcfdfe);
   width: 480px;
+  bottom: -51px;
   height: auto;
   position: absolute;
   font-size: 32px;
@@ -252,8 +253,9 @@
 }
 .splash-pagination {
   gap: 16px;
-  left: 300px;
-  bottom: 0px;
+  right: -261px;
+  bottom: -790px;
+  height: 100%;
   display: flex;
   position: absolute;
   align-items: flex-start;

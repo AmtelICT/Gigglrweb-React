@@ -224,12 +224,14 @@
 }
 .splash-frame598 {
   gap: 43px;
+  left: 94px;
   width: 480px;
+  bottom: 0px;
   height: 120px;
   display: flex;
-  position: relative;
+  position: absolute;
   align-items: flex-start;
-  justify-content: center;
+  justify-content: flex-start;
 }
 .splash-text10 {
   top: -24px;

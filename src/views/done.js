@@ -46,7 +46,7 @@ const Done = (props) => {
               <div className="done-logohorizontal">
                 <img
                   alt="Gigglr0112I134"
-                  src="https://aheioqhobo.cloudimg.io/v7/_playground-bucket-v2.teleporthq.io_/837a8117-b939-43e1-b67d-6e430b85c006/b81d6513-736a-48e3-97e5-8c11a950a2eb?org_if_sml=1750"
+                  src="/external/gigglr0112i134-7pk-200h.png"
                   className="done-gigglr0112"
                 />
                 <span className="done-text08">
@@ -62,7 +62,7 @@ const Done = (props) => {
                   <div className="done-avatar">
                     <img
                       alt="IMAGE151I134"
-                      src="https://aheioqhobo.cloudimg.io/v7/_playground-bucket-v2.teleporthq.io_/837a8117-b939-43e1-b67d-6e430b85c006/d822e4c7-89ab-4e45-89f6-00742bab8263?org_if_sml=12380"
+                      src="/external/image151i134-ery-200h.png"
                       className="done-image151"
                     />
                   </div>

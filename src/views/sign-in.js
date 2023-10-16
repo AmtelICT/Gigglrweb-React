@@ -15,38 +15,38 @@ const SignIn = (props) => {
         <div className="sign-in-frame589">
           <img
             alt="bg1349"
-            src="https://aheioqhobo.cloudimg.io/v7/_playground-bucket-v2.teleporthq.io_/837a8117-b939-43e1-b67d-6e430b85c006/b689b6e6-66ea-4087-92e4-4c570462d5c9?org_if_sml=11236894"
+            src="/external/bg1349-h7o-200w.png"
             className="sign-in-bg"
           />
+          <div className="sign-in-pagination">
+            <img
+              alt="Ellipse281349"
+              src="/external/ellipse281349-pdqv-200h.png"
+              className="sign-in-ellipse28"
+            />
+            <img
+              alt="Ellipse291349"
+              src="/external/ellipse291349-6z0a-200h.png"
+              className="sign-in-ellipse29"
+            />
+            <img
+              alt="Ellipse301349"
+              src="/external/ellipse301349-lu1-200h.png"
+              className="sign-in-ellipse30"
+            />
+          </div>
           <span className="sign-in-text">
             <span>
               Connect with comedy lovers from around the world. Your next laugh
               is just a click away!
             </span>
           </span>
-          <div className="sign-in-pagination">
-            <img
-              alt="Ellipse281349"
-              src="https://aheioqhobo.cloudimg.io/v7/_playground-bucket-v2.teleporthq.io_/837a8117-b939-43e1-b67d-6e430b85c006/340a8ebc-2719-4468-a6f9-7fd255b760b9?org_if_sml=1123"
-              className="sign-in-ellipse28"
-            />
-            <img
-              alt="Ellipse291349"
-              src="https://aheioqhobo.cloudimg.io/v7/_playground-bucket-v2.teleporthq.io_/837a8117-b939-43e1-b67d-6e430b85c006/2f7f7eb8-4f44-46f0-91a3-b9f7e6dae426?org_if_sml=1279"
-              className="sign-in-ellipse29"
-            />
-            <img
-              alt="Ellipse301349"
-              src="https://aheioqhobo.cloudimg.io/v7/_playground-bucket-v2.teleporthq.io_/837a8117-b939-43e1-b67d-6e430b85c006/b8a7f870-6f62-48ea-a4eb-f1556371dead?org_if_sml=1123"
-              className="sign-in-ellipse30"
-            />
-          </div>
         </div>
         <div className="sign-in-frame587">
           <div className="sign-in-gigglr0111">
             <img
               alt="Gigglr0111I134"
-              src="https://aheioqhobo.cloudimg.io/v7/_playground-bucket-v2.teleporthq.io_/837a8117-b939-43e1-b67d-6e430b85c006/5bc01685-d767-420f-8cc1-6f7bd81ee066?org_if_sml=13432"
+              src="/external/gigglr0111i134-4ssf-200w.png"
               className="sign-in-gigglr01111"
             />
           </div>
@@ -80,7 +80,7 @@ const SignIn = (props) => {
           <div className="sign-in-frame590">
             <img
               alt="Rectangle13131349"
-              src="https://aheioqhobo.cloudimg.io/v7/_playground-bucket-v2.teleporthq.io_/837a8117-b939-43e1-b67d-6e430b85c006/9cda6bd3-b6f8-4c59-aa02-ee2bb7efcc53?org_if_sml=1150"
+              src="/external/rectangle13131349-8zw-200h.png"
               className="sign-in-rectangle1313"
             />
             <span className="sign-in-text08">
@@ -88,7 +88,7 @@ const SignIn = (props) => {
             </span>
             <img
               alt="Rectangle13141349"
-              src="https://aheioqhobo.cloudimg.io/v7/_playground-bucket-v2.teleporthq.io_/837a8117-b939-43e1-b67d-6e430b85c006/504284f4-f06d-4e61-b0ee-975d210d4f82?org_if_sml=1150"
+              src="/external/rectangle13141349-jlzd-200h.png"
               className="sign-in-rectangle1314"
             />
           </div>

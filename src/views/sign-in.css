@@ -11,6 +11,7 @@
   height: auto;
   display: flex;
   overflow: hidden;
+  position: relative;
   align-items: flex-start;
   flex-shrink: 0;
   border-radius: 12px;
@@ -20,12 +21,13 @@
 .sign-in-frame589 {
   gap: 8px;
   width: 800px;
-  height: 1024px;
+  height: auto;
   display: flex;
   padding: 32px;
   position: relative;
   align-items: flex-start;
   flex-shrink: 0;
+  margin-right: 800px;
 }
 .sign-in-bg {
   width: auto;
@@ -34,28 +36,13 @@
   align-self: stretch;
   border-radius: 40px;
 }
-.sign-in-text {
-  top: 786px;
-  left: 158px;
-  color: var(--dl-color-neutral_01-stillfcfdfe);
-  width: 500px;
-  height: auto;
-  z-index: 2;
-  position: absolute;
-  font-size: 32px;
-  box-shadow: 0px 1px 6px 0px rgba(0, 0, 0, 0.5) ;
-  font-style: SemiBold;
-  text-align: center;
-  font-family: Archivo;
-  font-weight: 600;
-  line-height: 40px;
-  font-stretch: normal;
-  text-decoration: none;
-}
 .sign-in-pagination {
   gap: 16px;
+  right: 391px;
+  bottom: 70px;
   display: flex;
   z-index: 3;
+  position: absolute;
   align-items: flex-start;
 }
 .sign-in-ellipse28 {
@@ -76,12 +63,33 @@
   border-style: solid;
   border-width: 2px;
 }
+.sign-in-text {
+  left: 147px;
+  color: var(--dl-color-neutral_01-stillfcfdfe);
+  width: 500px;
+  bottom: 112px;
+  height: auto;
+  z-index: 2;
+  position: absolute;
+  font-size: 32px;
+  box-shadow: 0px 1px 6px 0px rgba(0, 0, 0, 0.5) ;
+  font-style: SemiBold;
+  text-align: center;
+  font-family: Archivo;
+  font-weight: 600;
+  line-height: 40px;
+  font-stretch: normal;
+  text-decoration: none;
+}
 .sign-in-frame587 {
   gap: 32px;
+  top: 77px;
+  right: 81px;
   width: 640px;
   display: flex;
   padding: 0 160px 0 128px;
   z-index: 1;
+  position: absolute;
   flex-grow: 1;
   align-items: center;
   flex-shrink: 0;
@@ -402,10 +410,13 @@
 }
 .sign-in-frame586 {
   gap: 629px;
+  top: -9px;
+  right: -11px;
   width: 1440px;
   display: flex;
   padding: 32px;
   z-index: 2;
+  position: absolute;
   align-items: center;
   flex-shrink: 0;
   justify-content: flex-end;
@@ -437,4 +448,35 @@
 .sign-in-login03 {
   width: 20px;
   height: 20px;
+}
+@media(max-width: 1200px) {
+  .sign-in-bg {
+    margin-left: 200px;
+  }
+  .sign-in-pagination {
+    right: 287px;
+    bottom: 57px;
+    position: absolute;
+  }
+  .sign-in-text {
+    left: 189px;
+    bottom: 89px;
+    margin-left: var(--dl-space-space-threeunits);
+  }
+  .sign-in-frame587 {
+    right: -1px;
+    bottom: 21px;
+  }
+}
+@media(max-width: 991px) {
+  .sign-in-bg {
+    margin-left: 280px;
+  }
+  .sign-in-frame587 {
+    right: -55px;
+    bottom: 6px;
+    height: 651px;
+    padding-top: 0px;
+    padding-bottom: 0px;
+  }
 }

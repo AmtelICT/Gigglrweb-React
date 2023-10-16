@@ -18,7 +18,6 @@ import Onboard1 from './views/onboard1'
 import Onboard3 from './views/onboard3'
 import HomeDash from './views/home-dash'
 import Onboard2 from './views/onboard2'
-import Page from './views/page'
 import NotFound from './views/not-found'
 
 const App = () => {
@@ -35,7 +34,6 @@ const App = () => {
         <Route component={Onboard3} exact path="/onboard3" />
         <Route component={HomeDash} exact path="/home-dash" />
         <Route component={Onboard2} exact path="/onboard2" />
-        <Route component={Page} exact path="/page" />
         <Route component={NotFound} path="**" />
         <Redirect to="**" />
       </Switch>

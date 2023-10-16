@@ -2305,7 +2305,7 @@ const HomeDash = (props) => {
                     <img
                       alt="Rectangle2332StrokeI376"
                       src="/external/rectangle2332strokei376-n563u.svg"
-                      className="home-dash-rectangle2332stroke"
+                      className="home-dash-rectangle2332-stroke"
                     />
                   </div>
                 </div>
@@ -2340,12 +2340,12 @@ const HomeDash = (props) => {
                     <img
                       alt="Vector7311StrokeI376"
                       src="/external/vector7311strokei376-mfqp.svg"
-                      className="home-dash-vector7311stroke"
+                      className="home-dash-vector7311-stroke"
                     />
                     <img
                       alt="Vector7312StrokeI376"
                       src="/external/vector7312strokei376-2qeo.svg"
-                      className="home-dash-vector7312stroke"
+                      className="home-dash-vector7312-stroke"
                     />
                   </div>
                 </div>

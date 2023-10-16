@@ -8,17 +8,17 @@ import {
 } from 'react-router-dom'
 
 import './style.css'
-import SignIn from './views/sign-in'
+import SignIn, { SignIn1 } from './views/sign-in'
 import Done from './views/done'
 import Onboard4 from './views/onboard4'
 import Signup from './views/signup'
 import Onboard5 from './views/onboard5'
-import Page from './views/page'
 import Splash from './views/splash'
 import Onboard1 from './views/onboard1'
 import Onboard3 from './views/onboard3'
 import HomeDash from './views/home-dash'
 import Onboard2 from './views/onboard2'
+import Done1 from './views/done1'
 import NotFound from './views/not-found'
 
 const App = () => {
@@ -30,12 +30,13 @@ const App = () => {
         <Route component={Onboard4} exact path="/onboard4" />
         <Route component={Signup} exact path="/signup" />
         <Route component={Onboard5} exact path="/onboard5" />
-        <Route component={Page} exact path="/page" />
+        <Route component={SignIn1} exact path="/sign-in1" />
         <Route component={Splash} exact path="/" />
         <Route component={Onboard1} exact path="/onboard1" />
         <Route component={Onboard3} exact path="/onboard3" />
         <Route component={HomeDash} exact path="/home-dash" />
         <Route component={Onboard2} exact path="/onboard2" />
+        <Route component={Done1} exact path="/done1" />
         <Route component={NotFound} path="**" />
         <Redirect to="**" />
       </Switch>

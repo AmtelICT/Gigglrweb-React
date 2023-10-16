@@ -79,13 +79,13 @@
   height: auto;
   z-index: 2;
   position: absolute;
-  font-size: 28px;
+  font-size: 22px;
   box-shadow: 0px 1px 6px 0px rgba(0, 0, 0, 0.5) ;
   font-style: SemiBold;
   text-align: center;
   font-family: Archivo;
   font-weight: 600;
-  line-height: 40px;
+  line-height: 28px;
   font-stretch: normal;
   text-decoration: none;
 }
@@ -541,6 +541,8 @@
 }
 .signup-ghostbutton {
   gap: 8px;
+  width: 132px;
+  height: 75px;
   display: flex;
   padding: 12px 24px;
   overflow: hidden;

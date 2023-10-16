@@ -15,38 +15,40 @@ const Signup = (props) => {
         <div className="signup-frame589">
           <img
             alt="bg1348"
-            src="https://aheioqhobo.cloudimg.io/v7/_playground-bucket-v2.teleporthq.io_/837a8117-b939-43e1-b67d-6e430b85c006/d41ba209-4bf6-4299-81b5-5e1a2dbfd9b2?org_if_sml=11046907"
+            src="/external/bg1348-j69g-700w.png"
             className="signup-bg"
           />
-          <span className="signup-text">
-            <span>
-              Interact with our AI-powered Chatbot for a personalized comedy
-              experience. Get ready to giggle with gigglr!
+          <div className="signup-container1">
+            <div className="signup-pagination">
+              <img
+                alt="Ellipse281348"
+                src="https://aheioqhobo.cloudimg.io/v7/_playground-bucket-v2.teleporthq.io_/837a8117-b939-43e1-b67d-6e430b85c006/a528dfc2-9cd8-4762-accc-febdd686a0f7?org_if_sml=1123"
+                className="signup-ellipse28"
+              />
+              <img
+                alt="Ellipse291348"
+                src="https://aheioqhobo.cloudimg.io/v7/_playground-bucket-v2.teleporthq.io_/837a8117-b939-43e1-b67d-6e430b85c006/b2a4ab17-274f-4eb4-a79d-8a08c474ace1?org_if_sml=1279"
+                className="signup-ellipse29"
+              />
+              <img
+                alt="Ellipse301348"
+                src="https://aheioqhobo.cloudimg.io/v7/_playground-bucket-v2.teleporthq.io_/837a8117-b939-43e1-b67d-6e430b85c006/b2e84e81-3a09-4be8-b4b9-81566f9b99a9?org_if_sml=1123"
+                className="signup-ellipse30"
+              />
+            </div>
+            <span className="signup-text">
+              <span>
+                Interact with our AI-powered Chatbot for a personalized comedy
+                experience. Get ready to giggle with gigglr!
+              </span>
             </span>
-          </span>
-          <div className="signup-pagination">
-            <img
-              alt="Ellipse281348"
-              src="https://aheioqhobo.cloudimg.io/v7/_playground-bucket-v2.teleporthq.io_/837a8117-b939-43e1-b67d-6e430b85c006/a528dfc2-9cd8-4762-accc-febdd686a0f7?org_if_sml=1123"
-              className="signup-ellipse28"
-            />
-            <img
-              alt="Ellipse291348"
-              src="https://aheioqhobo.cloudimg.io/v7/_playground-bucket-v2.teleporthq.io_/837a8117-b939-43e1-b67d-6e430b85c006/b2a4ab17-274f-4eb4-a79d-8a08c474ace1?org_if_sml=1279"
-              className="signup-ellipse29"
-            />
-            <img
-              alt="Ellipse301348"
-              src="https://aheioqhobo.cloudimg.io/v7/_playground-bucket-v2.teleporthq.io_/837a8117-b939-43e1-b67d-6e430b85c006/b2e84e81-3a09-4be8-b4b9-81566f9b99a9?org_if_sml=1123"
-              className="signup-ellipse30"
-            />
           </div>
         </div>
         <div className="signup-frame587">
           <div className="signup-gigglr0111">
             <img
               alt="Gigglr0111I134"
-              src="https://aheioqhobo.cloudimg.io/v7/_playground-bucket-v2.teleporthq.io_/837a8117-b939-43e1-b67d-6e430b85c006/aac56ed8-d0c4-416e-b0f3-dc5ac192887a?org_if_sml=13432"
+              src="/external/gigglr0111i134-s3yh-200w.png"
               className="signup-gigglr01111"
             />
           </div>
@@ -85,7 +87,7 @@ const Signup = (props) => {
           <div className="signup-frame590">
             <img
               alt="Rectangle13131348"
-              src="https://aheioqhobo.cloudimg.io/v7/_playground-bucket-v2.teleporthq.io_/837a8117-b939-43e1-b67d-6e430b85c006/e43b91ba-d815-4848-b6ec-857a03c08b8c?org_if_sml=1150"
+              src="/external/rectangle13131348-7ejn-200h.png"
               className="signup-rectangle1313"
             />
             <span className="signup-text10">
@@ -93,7 +95,7 @@ const Signup = (props) => {
             </span>
             <img
               alt="Rectangle13141348"
-              src="https://aheioqhobo.cloudimg.io/v7/_playground-bucket-v2.teleporthq.io_/837a8117-b939-43e1-b67d-6e430b85c006/1aaedf91-e923-4199-829a-484ea624c8b1?org_if_sml=1150"
+              src="/external/rectangle13141348-0aeg-200h.png"
               className="signup-rectangle1314"
             />
           </div>

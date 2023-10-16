@@ -11,7 +11,6 @@
   height: auto;
   display: flex;
   overflow: hidden;
-  position: relative;
   align-items: flex-start;
   flex-shrink: 0;
   border-radius: 12px;
@@ -29,10 +28,10 @@
   flex-shrink: 0;
 }
 .signup-bg {
-  top: 8px;
-  left: 62px;
-  width: 630px;
-  height: 701px;
+  top: 12px;
+  left: 185px;
+  width: auto;
+  height: 656px;
   position: absolute;
   align-self: stretch;
   border-radius: 40px;
@@ -47,8 +46,8 @@
 }
 .signup-pagination {
   gap: 16px;
-  right: -311px;
-  bottom: -600px;
+  right: -424px;
+  bottom: -596px;
   display: flex;
   z-index: 3;
   position: absolute;
@@ -73,10 +72,10 @@
   border-width: 2px;
 }
 .signup-text {
-  left: 77px;
+  left: 149px;
   color: var(--dl-color-neutral_01-stillfcfdfe);
   width: 500px;
-  bottom: -554px;
+  bottom: -557px;
   height: auto;
   z-index: 2;
   position: absolute;
@@ -93,17 +92,12 @@
 .signup-frame587 {
   gap: 24px;
   width: 640px;
-  height: auto;
+  height: 1024px;
   display: flex;
+  padding: 0 160px 0 128px;
   align-items: center;
   flex-shrink: 0;
-  margin-left: var(--dl-space-space-halfunit);
-  padding-top: var(--dl-space-space-twounits);
-  margin-right: var(--dl-space-space-sixunits);
-  padding-left: 0 160px 0 128px;
-  padding-right: 0 160px 0 128px;
   flex-direction: column;
-  padding-bottom: var(--dl-space-space-twounits);
   justify-content: center;
 }
 .signup-gigglr0111 {
@@ -495,6 +489,7 @@
   flex-direction: column;
 }
 .signup-button-primary {
+  gap: 8px;
   display: flex;
   padding: 12px 24px;
   overflow: hidden;
@@ -502,7 +497,7 @@
   align-items: center;
   flex-shrink: 0;
   border-radius: 40px;
-  justify-content: center;
+  justify-content: space-between;
   background-color: var(--dl-color-default-gradient);
   background-image: linear-gradient(180deg, rgba(154, 119, 255, 1) 0%, rgba(115, 95, 250, 1) 100%);
 }
@@ -539,11 +534,8 @@
 }
 .signup-frame586 {
   gap: 629px;
-  top: 0px;
-  right: -6px;
   display: flex;
   padding: 32px;
-  position: absolute;
   flex-grow: 1;
   align-items: center;
   justify-content: flex-end;
@@ -577,10 +569,33 @@
   height: 20px;
 }
 @media(max-width: 1200px) {
+  .signup-newaccount {
+    position: relative;
+  }
   .signup-frame589 {
-    margin-left: var(--dl-space-space-sixunits);
+    width: auto;
+    padding-left: var(--dl-space-space-fiveunits);
+  }
+  .signup-bg {
+    top: 8px;
+    left: 65px;
+    width: 406px;
+    height: 567px;
+  }
+  .signup-pagination {
+    right: -267px;
+    bottom: -528px;
+  }
+  .signup-text {
+    left: 28px;
+    bottom: -488px;
+    font-size: 21px;
   }
   .signup-frame587 {
-    padding-left: var(--dl-space-space-sixunits);
+    top: -36px;
+    right: -42px;
+    width: auto;
+    height: 1024px;
+    position: absolute;
   }
 }

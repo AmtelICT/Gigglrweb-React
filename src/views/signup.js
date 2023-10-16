@@ -15,24 +15,24 @@ const Signup = (props) => {
         <div className="signup-frame589">
           <img
             alt="bg1348"
-            src="/external/bg1348-j69g-700w.png"
+            src="/external/bg1348-j69g-700h.png"
             className="signup-bg"
           />
           <div className="signup-container1">
             <div className="signup-pagination">
               <img
                 alt="Ellipse281348"
-                src="https://aheioqhobo.cloudimg.io/v7/_playground-bucket-v2.teleporthq.io_/837a8117-b939-43e1-b67d-6e430b85c006/a528dfc2-9cd8-4762-accc-febdd686a0f7?org_if_sml=1123"
+                src="/external/ellipse281348-ffd-200h.png"
                 className="signup-ellipse28"
               />
               <img
                 alt="Ellipse291348"
-                src="https://aheioqhobo.cloudimg.io/v7/_playground-bucket-v2.teleporthq.io_/837a8117-b939-43e1-b67d-6e430b85c006/b2a4ab17-274f-4eb4-a79d-8a08c474ace1?org_if_sml=1279"
+                src="/external/ellipse291348-909o-200h.png"
                 className="signup-ellipse29"
               />
               <img
                 alt="Ellipse301348"
-                src="https://aheioqhobo.cloudimg.io/v7/_playground-bucket-v2.teleporthq.io_/837a8117-b939-43e1-b67d-6e430b85c006/b2e84e81-3a09-4be8-b4b9-81566f9b99a9?org_if_sml=1123"
+                src="/external/ellipse301348-gb6f-200h.png"
                 className="signup-ellipse30"
               />
             </div>

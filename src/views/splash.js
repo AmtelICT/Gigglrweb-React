@@ -59,16 +59,14 @@ const Splash = (props) => {
           <div className="splash-frame597">
             <img
               alt="Rectangle45181"
-              src="/external/rectangle45181-i4i2l-700w.png"
+              src="/external/rectangle45181-i4i2l-600h.png"
               className="splash-rectangle4"
             />
           </div>
           <div className="splash-frame598">
             <span className="splash-text10">
-              <span>
-                Choose your flavor of comedy. From dad jokes to puns, we&apos;ve
-                got it all!
-              </span>
+              Choose your flavor of comedy. From dad jokes to puns, we&apos;ve
+              got it all!
             </span>
           </div>
           <div className="splash-pagination">

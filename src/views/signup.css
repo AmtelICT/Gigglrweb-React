@@ -583,13 +583,15 @@
     height: 567px;
   }
   .signup-pagination {
-    right: -267px;
-    bottom: -528px;
+    right: -212px;
+    bottom: -526px;
   }
   .signup-text {
-    left: 28px;
-    bottom: -488px;
-    font-size: 21px;
+    left: 50px;
+    width: var(--dl-size-size-xxlarge);
+    bottom: -491px;
+    font-size: 18px;
+    line-height: 20px;
   }
   .signup-frame587 {
     top: -36px;
@@ -597,5 +599,53 @@
     width: auto;
     height: 1024px;
     position: absolute;
+  }
+  .signup-button-primary {
+    justify-content: center;
+  }
+}
+@media(max-width: 991px) {
+  .signup-pagination {
+    right: -225px;
+    bottom: -527px;
+  }
+  .signup-text {
+    left: 60px;
+    width: var(--dl-size-size-xxlarge);
+    bottom: -483px;
+    font-size: 16px;
+  }
+  .signup-frame587 {
+    margin-right: var(--dl-space-space-fourunits);
+    padding-left: var(--dl-space-space-unit);
+    padding-right: var(--dl-space-space-unit);
+  }
+  .signup-button-primary {
+    margin-right: var(--dl-space-space-threeunits);
+    justify-content: center;
+  }
+  .signup-text34 {
+    font-size: 10px;
+  }
+}
+@media(max-width: 479px) {
+  .signup-bg {
+    top: 8px;
+    left: 28px;
+  }
+  .signup-pagination {
+    right: -188px;
+    bottom: -516px;
+  }
+  .signup-text {
+    left: 8px;
+    bottom: -484px;
+  }
+  .signup-frame587 {
+    left: 56px;
+    bottom: -647px;
+    position: absolute;
+    margin-top: 650px;
+    margin-right: var(--dl-space-space-fiveunits);
   }
 }

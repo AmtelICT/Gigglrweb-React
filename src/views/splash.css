@@ -78,8 +78,8 @@
   margin-top: var(--dl-space-space-sixunits);
   align-items: center;
   flex-shrink: 0;
-  margin-left: 480px;
-  margin-right: 200px;
+  margin-left: 680px;
+  margin-right: 100px;
   margin-bottom: var(--dl-space-space-sixunits);
   flex-direction: column;
 }

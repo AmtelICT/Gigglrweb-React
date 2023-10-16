@@ -13,6 +13,7 @@ import Done from './views/done'
 import Onboard4 from './views/onboard4'
 import Signup from './views/signup'
 import Onboard5 from './views/onboard5'
+import Page from './views/page'
 import Splash from './views/splash'
 import Onboard1 from './views/onboard1'
 import Onboard3 from './views/onboard3'
@@ -29,6 +30,7 @@ const App = () => {
         <Route component={Onboard4} exact path="/onboard4" />
         <Route component={Signup} exact path="/signup" />
         <Route component={Onboard5} exact path="/onboard5" />
+        <Route component={Page} exact path="/page" />
         <Route component={Splash} exact path="/" />
         <Route component={Onboard1} exact path="/onboard1" />
         <Route component={Onboard3} exact path="/onboard3" />

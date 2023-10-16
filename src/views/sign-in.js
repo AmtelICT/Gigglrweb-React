@@ -57,7 +57,7 @@ const SignIn = (props) => {
             <button className="sign-in-button">
               <img
                 alt="Loginlogo1349"
-                src="/external/loginlogo1349-2zio.svg"
+                src="/external/Loginlogo1349-2zio1.svg"
                 className="sign-in-loginlogo"
               />
               <span className="sign-in-text04">

@@ -30,7 +30,7 @@
 }
 .signup-bg {
   top: 8px;
-  left: 29px;
+  left: 62px;
   width: 630px;
   height: 701px;
   position: absolute;
@@ -97,7 +97,9 @@
   display: flex;
   align-items: center;
   flex-shrink: 0;
+  margin-left: var(--dl-space-space-halfunit);
   padding-top: var(--dl-space-space-twounits);
+  margin-right: var(--dl-space-space-sixunits);
   padding-left: 0 160px 0 128px;
   padding-right: 0 160px 0 128px;
   flex-direction: column;

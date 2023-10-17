@@ -27,7 +27,7 @@ const Login = (props) => {
         <div className="login-container3">
           <img
             alt="bg1349"
-            src="/external/bg1349-h7o-600w.png"
+            src="/external/rectangle23347517-rfzg-600w.png"
             className="login-bg"
           />
         </div>
@@ -57,7 +57,7 @@ const Login = (props) => {
               <div className="login-loginlogo1">
                 <img
                   alt="apple1349"
-                  src="/external/apple1349-u2u1.svg"
+                  src="/external/apple1349-u2u.svg"
                   className="login-apple"
                 />
               </div>

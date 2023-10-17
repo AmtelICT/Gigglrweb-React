@@ -11,29 +11,12 @@ const Onboard5 = (props) => {
         <title>Onboard5 - Gigglr_web</title>
         <meta property="og:title" content="Onboard5 - Gigglr_web" />
       </Helmet>
-      <div className="onboard5-onboardingstep6">
-        <div className="onboard5-frame590">
-          <div className="onboard5-pagination">
-            <img
-              alt="Ellipse281349"
-              src="https://aheioqhobo.cloudimg.io/v7/_playground-bucket-v2.teleporthq.io_/837a8117-b939-43e1-b67d-6e430b85c006/942a08f5-04c4-42c6-8261-33003b5b6655?org_if_sml=1123"
-              className="onboard5-ellipse28"
-            />
-            <img
-              alt="Ellipse291349"
-              src="https://aheioqhobo.cloudimg.io/v7/_playground-bucket-v2.teleporthq.io_/837a8117-b939-43e1-b67d-6e430b85c006/a7287cc2-fde7-4d63-ab27-37bb56f70559?org_if_sml=1279"
-              className="onboard5-ellipse29"
-            />
-            <img
-              alt="Ellipse301349"
-              src="https://aheioqhobo.cloudimg.io/v7/_playground-bucket-v2.teleporthq.io_/837a8117-b939-43e1-b67d-6e430b85c006/30cc2851-76fe-4acb-92fe-9c7320aa3909?org_if_sml=1123"
-              className="onboard5-ellipse30"
-            />
-          </div>
+      <div className="onboard5-container1">
+        <div className="onboard5-container2">
           <div className="onboard5-section">
             <img
               alt="Gigglr01111349"
-              src="https://aheioqhobo.cloudimg.io/v7/_playground-bucket-v2.teleporthq.io_/837a8117-b939-43e1-b67d-6e430b85c006/1e65c9df-2a5b-47f9-94d3-75e3b08c6432?org_if_sml=12318"
+              src="/external/gigglr01111349-87wr-200w.png"
               className="onboard5-gigglr0111"
             />
             <div className="onboard5-frame427319187">
@@ -196,8 +179,8 @@ const Onboard5 = (props) => {
             </span>
           </div>
         </div>
-        <div className="onboard5-frame587">
-          <div className="onboard5-steppermodal">
+        <div className="onboard5-container3">
+          <div className="onboard5-container4">
             <div className="onboard5-inputs">
               <div className="onboard5-description">
                 <span className="onboard5-text28">
@@ -325,6 +308,8 @@ const Onboard5 = (props) => {
                 </div>
               </div>
             </div>
+          </div>
+          <div className="onboard5-container5">
             <div className="onboard5-ctasection">
               <button className="onboard5-ghostbutton19">
                 <span className="onboard5-text74">
@@ -333,7 +318,7 @@ const Onboard5 = (props) => {
               </button>
               <button className="onboard5-button-primary1">
                 <span className="onboard5-text76">
-                  <span>Finish</span>
+                  <span>Next</span>
                 </span>
               </button>
             </div>

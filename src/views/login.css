@@ -395,6 +395,9 @@
   text-decoration: none;
 }
 @media(max-width: 1200px) {
+  .login-ghostbutton {
+    display: none;
+  }
   .login-container2 {
     flex-direction: column;
   }

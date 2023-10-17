@@ -11,29 +11,12 @@ const Onboard1 = (props) => {
         <title>Onboard1 - Gigglr_web</title>
         <meta property="og:title" content="Onboard1 - Gigglr_web" />
       </Helmet>
-      <div className="onboard1-onboardingstep1">
-        <div className="onboard1-frame590">
-          <div className="onboard1-pagination">
-            <img
-              alt="Ellipse281348"
-              src="https://aheioqhobo.cloudimg.io/v7/_playground-bucket-v2.teleporthq.io_/837a8117-b939-43e1-b67d-6e430b85c006/a2890a9d-41bf-43a9-8140-667354b2a686?org_if_sml=1123"
-              className="onboard1-ellipse28"
-            />
-            <img
-              alt="Ellipse291348"
-              src="https://aheioqhobo.cloudimg.io/v7/_playground-bucket-v2.teleporthq.io_/837a8117-b939-43e1-b67d-6e430b85c006/8bd875c6-2e65-4398-9f31-70b478b94597?org_if_sml=1279"
-              className="onboard1-ellipse29"
-            />
-            <img
-              alt="Ellipse301348"
-              src="https://aheioqhobo.cloudimg.io/v7/_playground-bucket-v2.teleporthq.io_/837a8117-b939-43e1-b67d-6e430b85c006/6038976d-45c1-4a95-8a3b-0bb786ba6b8c?org_if_sml=1123"
-              className="onboard1-ellipse30"
-            />
-          </div>
+      <div className="onboard1-container1">
+        <div className="onboard1-container2">
           <div className="onboard1-section">
             <img
               alt="Gigglr01111348"
-              src="https://aheioqhobo.cloudimg.io/v7/_playground-bucket-v2.teleporthq.io_/837a8117-b939-43e1-b67d-6e430b85c006/e36df782-e9b8-4947-a1ca-be027dada9be?org_if_sml=12318"
+              src="/external/gigglr01111348-d0fd-200w.png"
               className="onboard1-gigglr0111"
             />
             <div className="onboard1-frame427319187">
@@ -180,8 +163,8 @@ const Onboard1 = (props) => {
             </span>
           </div>
         </div>
-        <div className="onboard1-frame587">
-          <div className="onboard1-steppermodal">
+        <div className="onboard1-container3">
+          <div className="onboard1-container4">
             <div className="onboard1-inputs">
               <div className="onboard1-description">
                 <span className="onboard1-text32">
@@ -200,30 +183,30 @@ const Onboard1 = (props) => {
               <div className="onboard1-videoplayer">
                 <img
                   alt="Shadowoverlayplayer1348"
-                  src="https://aheioqhobo.cloudimg.io/v7/_playground-bucket-v2.teleporthq.io_/837a8117-b939-43e1-b67d-6e430b85c006/ad1a5a07-1b76-46c8-aaaa-e39c238b5188?org_if_sml=121443"
+                  src="/external/shadowoverlayplayer1348-ertm-200h.png"
                   className="onboard1-shadowoverlayplayer"
                 />
                 <img
                   alt="Overlay1348"
-                  src="https://aheioqhobo.cloudimg.io/v7/_playground-bucket-v2.teleporthq.io_/837a8117-b939-43e1-b67d-6e430b85c006/23c8fdd2-ef69-4e8a-bebc-fe3b582cbfd6?org_if_sml=11563"
+                  src="/external/overlay1348-7laq-400h.png"
                   className="onboard1-overlay"
                 />
                 <div className="onboard1-frame-videoprogress">
                   <img
                     alt="BackgroundI134"
-                    src="https://aheioqhobo.cloudimg.io/v7/_playground-bucket-v2.teleporthq.io_/837a8117-b939-43e1-b67d-6e430b85c006/676e1b73-6eaf-43d8-9172-a1df3bc1e7f3?org_if_sml=1258"
+                    src="/external/backgroundi134-kh38-200h.png"
                     className="onboard1-background"
                   />
                   <div className="onboard1-buffering">
                     <img
                       alt="BufferingprogressI134"
-                      src="https://aheioqhobo.cloudimg.io/v7/_playground-bucket-v2.teleporthq.io_/837a8117-b939-43e1-b67d-6e430b85c006/cf54e457-59d7-4c94-9b25-765f5ffaff3f?org_if_sml=1245"
+                      src="/external/bufferingprogressi134-c528-200h.png"
                       className="onboard1-bufferingprogress"
                     />
                   </div>
                   <img
                     alt="ProgresslineI134"
-                    src="https://aheioqhobo.cloudimg.io/v7/_playground-bucket-v2.teleporthq.io_/837a8117-b939-43e1-b67d-6e430b85c006/a13c93ad-4ece-4fbf-9fb2-ee4f6df90f00?org_if_sml=1208"
+                    src="/external/progresslinei134-i2je-200w.png"
                     className="onboard1-progressline"
                   />
                   <img
@@ -244,6 +227,8 @@ const Onboard1 = (props) => {
                 </div>
               </div>
             </div>
+          </div>
+          <div className="onboard1-container5">
             <div className="onboard1-ctasection">
               <button className="onboard1-ghostbutton">
                 <span className="onboard1-text42">

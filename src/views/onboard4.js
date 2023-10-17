@@ -11,29 +11,12 @@ const Onboard4 = (props) => {
         <title>Onboard4 - Gigglr_web</title>
         <meta property="og:title" content="Onboard4 - Gigglr_web" />
       </Helmet>
-      <div className="onboard4-onboardingstep4">
-        <div className="onboard4-frame590">
-          <div className="onboard4-pagination">
-            <img
-              alt="Ellipse281349"
-              src="https://aheioqhobo.cloudimg.io/v7/_playground-bucket-v2.teleporthq.io_/837a8117-b939-43e1-b67d-6e430b85c006/ce0527ac-68e6-4b44-b174-b470945f0693?org_if_sml=1123"
-              className="onboard4-ellipse28"
-            />
-            <img
-              alt="Ellipse291349"
-              src="https://aheioqhobo.cloudimg.io/v7/_playground-bucket-v2.teleporthq.io_/837a8117-b939-43e1-b67d-6e430b85c006/aadc74ee-5016-400a-9680-bfa315c7d955?org_if_sml=1279"
-              className="onboard4-ellipse29"
-            />
-            <img
-              alt="Ellipse301349"
-              src="https://aheioqhobo.cloudimg.io/v7/_playground-bucket-v2.teleporthq.io_/837a8117-b939-43e1-b67d-6e430b85c006/01b4bb50-2b57-4619-bee8-ea937dc5f2c8?org_if_sml=1123"
-              className="onboard4-ellipse30"
-            />
-          </div>
+      <div className="onboard4-container1">
+        <div className="onboard4-container2">
           <div className="onboard4-section">
             <img
               alt="Gigglr01111349"
-              src="https://aheioqhobo.cloudimg.io/v7/_playground-bucket-v2.teleporthq.io_/837a8117-b939-43e1-b67d-6e430b85c006/3fabfacd-11fb-44dd-99cb-d87e74611406?org_if_sml=12318"
+              src="/external/gigglr01111349-akh-200w.png"
               className="onboard4-gigglr0111"
             />
             <div className="onboard4-frame427319187">
@@ -192,8 +175,8 @@ const Onboard4 = (props) => {
             </span>
           </div>
         </div>
-        <div className="onboard4-frame587">
-          <div className="onboard4-steppermodal">
+        <div className="onboard4-container3">
+          <div className="onboard4-container4">
             <div className="onboard4-inputs">
               <div className="onboard4-description">
                 <span className="onboard4-text29">
@@ -241,6 +224,8 @@ const Onboard4 = (props) => {
                 </div>
               </div>
             </div>
+          </div>
+          <div className="onboard4-container5">
             <div className="onboard4-ctasection">
               <button className="onboard4-ghostbutton">
                 <span className="onboard4-text45">

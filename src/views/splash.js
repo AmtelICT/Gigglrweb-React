@@ -12,21 +12,26 @@ const Splash = (props) => {
         <meta property="og:title" content="Gigglr_web" />
       </Helmet>
       <div className="splash-container1">
-        <div className="splash-frame605">
-          <button className="splash-ghostbutton">
-            <span className="splash-text">
-              <span>New account</span>
-            </span>
-            <img
-              alt="login033879"
-              src="/external/login033879-cmjh.svg"
-              className="splash-login03"
-            />
-          </button>
-        </div>
+        <button className="splash-ghostbutton">
+          <span className="splash-text">
+            <span>New account</span>
+          </span>
+          <img
+            alt="login03I134"
+            src="/external/login03i134-qyh7.svg"
+            className="splash-login03"
+          />
+        </button>
       </div>
       <div className="splash-container2">
-        <div className="splash-frame602">
+        <div className="splash-container3">
+          <img
+            alt="bg1349"
+            src="/external/rectangle23337517-xesc-600w.png"
+            className="splash-bg"
+          />
+        </div>
+        <div className="splash-container4">
           <div className="splash-gigglr0111">
             <img
               alt="Gigglr01115181"
@@ -51,40 +56,6 @@ const Splash = (props) => {
             <span className="splash-text08">
               <span>Get Started</span>
             </span>
-          </div>
-        </div>
-      </div>
-      <div className="splash-container3">
-        <div className="splash-frame599">
-          <div className="splash-frame597">
-            <img
-              alt="Rectangle45181"
-              src="/external/rectangle45181-i4i2l-600h.png"
-              className="splash-rectangle4"
-            />
-          </div>
-          <div className="splash-frame598">
-            <span className="splash-text10">
-              Choose your flavor of comedy. From dad jokes to puns, we&apos;ve
-              got it all!
-            </span>
-          </div>
-          <div className="splash-pagination">
-            <img
-              alt="Ellipse285181"
-              src="/external/ellipse285181-ocri-200h.png"
-              className="splash-ellipse28"
-            />
-            <img
-              alt="Ellipse295181"
-              src="/external/ellipse295181-wgv8-200h.png"
-              className="splash-ellipse29"
-            />
-            <img
-              alt="Ellipse305181"
-              src="/external/ellipse305181-qjgqi-200h.png"
-              className="splash-ellipse30"
-            />
           </div>
         </div>
       </div>

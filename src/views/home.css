@@ -5774,3 +5774,8 @@
   height: 10px;
   position: absolute;
 }
+@media(max-width: 1200px) {
+  .home-text006 {
+    font-size: 12px;
+  }
+}

@@ -79,7 +79,7 @@
   display: flex;
   align-self: flex-end;
   align-items: center;
-  margin-left: var(--dl-space-space-sixunits);
+  margin-left: var(--dl-space-space-fourunits);
   padding-left: 0px;
   flex-direction: column;
 }

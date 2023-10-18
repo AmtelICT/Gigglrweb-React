@@ -915,7 +915,6 @@
   }
   .onboard1-section {
     flex-direction: column;
-    justify-content: flex-start;
   }
   .onboard1-container3 {
     width: auto;

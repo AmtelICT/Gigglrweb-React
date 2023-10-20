@@ -59,16 +59,13 @@ const Register = (props) => {
               </span>
             </button>
             <button className="register-button1">
-              <div className="register-loginlogo1">
-                <img
-                  alt="apple1348"
-                  src="/external/apple1348-tgs.svg"
-                  className="register-apple"
-                />
-              </div>
-              <span className="register-text08">
-                <span>Continue with Apple</span>
-              </span>
+              <svg
+                viewBox="0 0 602.2582857142856 1024"
+                className="register-icon"
+              >
+                <path d="M548 6.857v150.857h-89.714c-70.286 0-83.429 33.714-83.429 82.286v108h167.429l-22.286 169.143h-145.143v433.714h-174.857v-433.714h-145.714v-169.143h145.714v-124.571c0-144.571 88.571-223.429 217.714-223.429 61.714 0 114.857 4.571 130.286 6.857z"></path>
+              </svg>
+              <span className="register-text08">Continue with Facebook</span>
             </button>
           </div>
           <div className="register-frame590">
@@ -77,7 +74,7 @@ const Register = (props) => {
               src="/external/rectangle13131348-7ejn-200h.png"
               className="register-rectangle1313"
             />
-            <span className="register-text10">
+            <span className="register-text09">
               <span>Or</span>
             </span>
             <img
@@ -89,61 +86,61 @@ const Register = (props) => {
           <div className="register-frame588">
             <div className="register-input">
               <div className="register-frame562">
-                <span className="register-text12">
+                <span className="register-text11">
                   <span>Choose username</span>
                 </span>
-                <span className="register-text14">
+                <span className="register-text13">
                   <span>Optional</span>
                 </span>
               </div>
               <div className="register-frame469">
-                <span className="register-text16">
+                <span className="register-text15">
                   <span>e.g. GiggIruser</span>
                 </span>
               </div>
             </div>
             <div className="register-input1">
               <div className="register-frame5621">
-                <span className="register-text18">
+                <span className="register-text17">
                   <span>Email</span>
                 </span>
-                <span className="register-text20">
+                <span className="register-text19">
                   <span>Optional</span>
                 </span>
               </div>
               <div className="register-frame4691">
-                <span className="register-text22">
+                <span className="register-text21">
                   <span>hi@email.com</span>
                 </span>
               </div>
             </div>
             <div className="register-input2">
               <div className="register-frame5622">
-                <span className="register-text24">
+                <span className="register-text23">
                   <span>Password</span>
                 </span>
-                <span className="register-text26">
+                <span className="register-text25">
                   <span>Optional</span>
                 </span>
               </div>
               <div className="register-frame4692">
-                <span className="register-text28">
+                <span className="register-text27">
                   <span>Password</span>
                 </span>
               </div>
-              <span className="register-text30">
+              <span className="register-text29">
                 <span>At least 12 characters</span>
               </span>
             </div>
           </div>
           <button className="register-buttons">
             <button className="register-button-primary">
-              <span className="register-text32">
+              <span className="register-text31">
                 <span>Join gigglr</span>
               </span>
             </button>
-            <span className="register-text34">
-              <span className="register-text35">
+            <span className="register-text33">
+              <span className="register-text34">
                 By creating an account, you agree to our
                 <span
                   dangerouslySetInnerHTML={{
@@ -152,7 +149,7 @@ const Register = (props) => {
                 />
               </span>
               <span>Terms of Service</span>
-              <span className="register-text37">
+              <span className="register-text36">
                 {' '}
                 and
                 <span

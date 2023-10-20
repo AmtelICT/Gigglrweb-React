@@ -162,21 +162,9 @@
   border-radius: 12px;
   justify-content: center;
 }
-.login-loginlogo1 {
+.login-icon {
   width: 24px;
   height: 24px;
-  display: flex;
-  overflow: hidden;
-  position: relative;
-  align-items: flex-start;
-  flex-shrink: 0;
-}
-.login-apple {
-  top: 0px;
-  left: 2.0000667572021484px;
-  width: 20px;
-  height: 24px;
-  position: absolute;
 }
 .login-text06 {
   color: var(--dl-color-neutral_07-light);
@@ -184,7 +172,7 @@
   font-size: 16px;
   font-style: SemiBold;
   text-align: left;
-  font-family: Archivo;
+  font-family: "Archivo";
   font-weight: 600;
   line-height: 24px;
   font-stretch: normal;
@@ -204,7 +192,7 @@
   flex-grow: 1;
   border-radius: 1px;
 }
-.login-text08 {
+.login-text07 {
   color: var(--dl-color-neutral_04-light);
   height: auto;
   font-size: 12px;
@@ -244,7 +232,7 @@
   flex-shrink: 0;
   justify-content: space-between;
 }
-.login-text10 {
+.login-text09 {
   color: var(--dl-color-neutral_04-light);
   height: auto;
   font-size: 14px;
@@ -256,7 +244,7 @@
   font-stretch: normal;
   text-decoration: none;
 }
-.login-text12 {
+.login-text11 {
   color: var(--dl-color-neutral_04-light);
   height: auto;
   opacity: 0.00;
@@ -282,7 +270,7 @@
   border-width: 2px;
   border-radius: 12px;
 }
-.login-text14 {
+.login-text13 {
   color: var(--dl-color-neutral_04-light);
   height: auto;
   opacity: 0.50;
@@ -311,7 +299,7 @@
   flex-shrink: 0;
   justify-content: space-between;
 }
-.login-text16 {
+.login-text15 {
   color: var(--dl-color-neutral_04-light);
   height: auto;
   font-size: 14px;
@@ -323,7 +311,7 @@
   font-stretch: normal;
   text-decoration: none;
 }
-.login-text18 {
+.login-text17 {
   color: var(--dl-color-neutral_04-light);
   height: auto;
   opacity: 0.00;
@@ -349,7 +337,7 @@
   border-width: 2px;
   border-radius: 12px;
 }
-.login-text20 {
+.login-text19 {
   color: var(--dl-color-neutral_04-light);
   height: auto;
   opacity: 0.50;
@@ -382,7 +370,7 @@
   background-color: var(--dl-color-default-gradient);
   background-image: linear-gradient(180deg, rgba(154, 119, 255, 1) 0%, rgba(115, 95, 250, 1) 100%);
 }
-.login-text22 {
+.login-text21 {
   color: var(--dl-color-neutral_01-stillfcfdfe);
   height: auto;
   font-size: 14px;

@@ -54,16 +54,10 @@ const Login = (props) => {
               </span>
             </button>
             <button className="login-button1">
-              <div className="login-loginlogo1">
-                <img
-                  alt="apple1349"
-                  src="/external/apple1349-u2u.svg"
-                  className="login-apple"
-                />
-              </div>
-              <span className="login-text06">
-                <span>Continue with Apple</span>
-              </span>
+              <svg viewBox="0 0 602.2582857142856 1024" className="login-icon">
+                <path d="M548 6.857v150.857h-89.714c-70.286 0-83.429 33.714-83.429 82.286v108h167.429l-22.286 169.143h-145.143v433.714h-174.857v-433.714h-145.714v-169.143h145.714v-124.571c0-144.571 88.571-223.429 217.714-223.429 61.714 0 114.857 4.571 130.286 6.857z"></path>
+              </svg>
+              <span className="login-text06">Continue with Apple</span>
             </button>
           </div>
           <div className="login-frame590">
@@ -72,7 +66,7 @@ const Login = (props) => {
               src="/external/rectangle13131349-8zw-200h-200h.png"
               className="login-rectangle1313"
             />
-            <span className="login-text08">
+            <span className="login-text07">
               <span>Or</span>
             </span>
             <img
@@ -84,37 +78,37 @@ const Login = (props) => {
           <div className="login-frame588">
             <div className="login-input">
               <div className="login-frame562">
-                <span className="login-text10">
+                <span className="login-text09">
                   <span>Email</span>
                 </span>
-                <span className="login-text12">
+                <span className="login-text11">
                   <span>Optional</span>
                 </span>
               </div>
               <div className="login-frame469">
-                <span className="login-text14">
+                <span className="login-text13">
                   <span>hi@email.com</span>
                 </span>
               </div>
             </div>
             <div className="login-input1">
               <div className="login-frame5621">
-                <span className="login-text16">
+                <span className="login-text15">
                   <span>Password</span>
                 </span>
-                <span className="login-text18">
+                <span className="login-text17">
                   <span>Optional</span>
                 </span>
               </div>
               <div className="login-frame4691">
-                <span className="login-text20">
+                <span className="login-text19">
                   <span>Password</span>
                 </span>
               </div>
             </div>
             <button className="login-buttons">
               <button className="login-button-primary">
-                <span className="login-text22">
+                <span className="login-text21">
                   <span>Sign in</span>
                 </span>
               </button>

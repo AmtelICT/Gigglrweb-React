@@ -733,9 +733,14 @@
   padding: 8px 16px;
   overflow: hidden;
   flex-grow: 1;
+  box-shadow: 0px 16px 16px -4px rgba(0, 0, 0, 0.10000000149011612) ;
+  transition: 0.3s;
   align-items: center;
   border-radius: 8px;
   justify-content: center;
+}
+.onboard4-toggleitem:hover {
+  background-color: var(--dl-color-neutral_02-light);
 }
 .onboard4-text37 {
   color: var(--dl-color-neutral_07-light);
@@ -743,7 +748,7 @@
   font-size: 14px;
   font-style: SemiBold;
   text-align: left;
-  font-family: Archivo;
+  font-family: "Archivo";
   font-weight: 600;
   line-height: 24px;
   font-stretch: normal;
@@ -756,12 +761,15 @@
   overflow: hidden;
   flex-grow: 1;
   box-shadow: 0px 16px 16px -4px rgba(0, 0, 0, 0.10000000149011612) ;
+  transition: 0.3s;
   align-items: center;
   border-radius: 8px;
   justify-content: center;
-  background-color: var(--dl-color-neutral_01-light);
 }
-.onboard4-text39 {
+.onboard4-toggleitem1:hover {
+  background-color: var(--dl-color-neutral_02-light);
+}
+.onboard4-text38 {
   color: var(--dl-color-neutral_07-light);
   height: auto;
   font-size: 14px;
@@ -779,17 +787,22 @@
   padding: 8px 16px;
   overflow: hidden;
   flex-grow: 1;
+  box-shadow: 0px 16px 16px -4px rgba(0, 0, 0, 0.10000000149011612) ;
+  transition: 0.3s;
   align-items: center;
   border-radius: 8px;
   justify-content: center;
 }
-.onboard4-text41 {
+.onboard4-toggleitem2:hover {
+  background-color: var(--dl-color-neutral_02-light);
+}
+.onboard4-text40 {
   color: var(--dl-color-neutral_07-light);
   height: auto;
   font-size: 14px;
   font-style: SemiBold;
   text-align: left;
-  font-family: Archivo;
+  font-family: "Archivo";
   font-weight: 600;
   line-height: 24px;
   font-stretch: normal;
@@ -801,17 +814,22 @@
   padding: 8px 16px;
   overflow: hidden;
   flex-grow: 1;
+  box-shadow: 0px 16px 16px -4px rgba(0, 0, 0, 0.10000000149011612) ;
+  transition: 0.3s;
   align-items: center;
   border-radius: 8px;
   justify-content: center;
 }
-.onboard4-text43 {
+.onboard4-toggleitem3:hover {
+  background-color: var(--dl-color-neutral_02-light);
+}
+.onboard4-text41 {
   color: var(--dl-color-neutral_07-light);
   height: auto;
   font-size: 14px;
   font-style: SemiBold;
   text-align: left;
-  font-family: Archivo;
+  font-family: "Archivo";
   font-weight: 600;
   line-height: 24px;
   font-stretch: normal;
@@ -852,7 +870,7 @@
   border-radius: 40px;
   justify-content: center;
 }
-.onboard4-text45 {
+.onboard4-text42 {
   color: var(--dl-color-neutral_05-light);
   height: auto;
   font-size: 14px;
@@ -877,7 +895,7 @@
   background-color: var(--dl-color-default-gradient);
   background-image: linear-gradient(180deg, rgba(154, 119, 255, 1) 0%, rgba(115, 95, 250, 1) 100%);
 }
-.onboard4-text47 {
+.onboard4-text44 {
   color: var(--dl-color-neutral_01-stillfcfdfe);
   height: auto;
   font-size: 14px;

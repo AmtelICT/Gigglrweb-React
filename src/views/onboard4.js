@@ -202,24 +202,18 @@ const Onboard4 = (props) => {
                 </div>
                 <div className="onboard4-toggle">
                   <div className="onboard4-toggleitem">
-                    <span className="onboard4-text37">
-                      <span>G-rated</span>
-                    </span>
+                    <span className="onboard4-text37">G-Rated</span>
                   </div>
                   <div className="onboard4-toggleitem1">
-                    <span className="onboard4-text39">
+                    <span className="onboard4-text38">
                       <span>PG</span>
                     </span>
                   </div>
                   <div className="onboard4-toggleitem2">
-                    <span className="onboard4-text41">
-                      <span>PG-13</span>
-                    </span>
+                    <span className="onboard4-text40">PG-13</span>
                   </div>
                   <div className="onboard4-toggleitem3">
-                    <span className="onboard4-text43">
-                      <span>Adult</span>
-                    </span>
+                    <span className="onboard4-text41">Adult</span>
                   </div>
                 </div>
               </div>
@@ -228,12 +222,12 @@ const Onboard4 = (props) => {
           <div className="onboard4-container5">
             <div className="onboard4-ctasection">
               <button className="onboard4-ghostbutton">
-                <span className="onboard4-text45">
+                <span className="onboard4-text42">
                   <span>Back</span>
                 </span>
               </button>
               <button className="onboard4-button-primary">
-                <span className="onboard4-text47">
+                <span className="onboard4-text44">
                   <span>Next</span>
                 </span>
               </button>

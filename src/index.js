@@ -18,6 +18,7 @@ import Home from './views/home'
 import Onboard3 from './views/onboard3'
 import Register from './views/register'
 import Onboard2 from './views/onboard2'
+import Forgotpass from './views/forgotpass'
 import NotFound from './views/not-found'
 
 const App = () => {
@@ -34,6 +35,7 @@ const App = () => {
         <Route component={Onboard3} exact path="/onboard3" />
         <Route component={Register} exact path="/register" />
         <Route component={Onboard2} exact path="/onboard2" />
+        <Route component={Forgotpass} exact path="/forgotpass" />
         <Route component={NotFound} path="**" />
         <Redirect to="**" />
       </Switch>

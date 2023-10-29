@@ -177,7 +177,7 @@
   display: flex;
   padding: 14px 48px;
   overflow: hidden;
-  align-self: stretch;
+  align-self: center;
   align-items: center;
   flex-shrink: 0;
   border-color: rgba(227, 232, 238, 1);
@@ -189,11 +189,13 @@
 .register-icon {
   width: 24px;
   height: 24px;
+  align-self: center;
 }
 .register-text08 {
   color: var(--dl-color-neutral_07-light);
   height: auto;
   font-size: 16px;
+  align-self: center;
   font-style: SemiBold;
   text-align: left;
   font-family: "Archivo";

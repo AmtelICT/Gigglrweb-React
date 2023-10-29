@@ -30,6 +30,7 @@
   --dl-color-default-white: rgba(255, 255, 255, 1);
   --dl-color-grayscale-900: rgba(23, 23, 23, 1);
   --dl-radius-radius-round: 50%;
+  --dl-color-color_grey-900: rgba(17, 24, 39, 1);
   --dl-space-space-halfunit: 8px;
   --dl-space-space-sixunits: 96px;
   --dl-space-space-twounits: 32px;
@@ -118,4 +119,11 @@
   line-height: 1.15;
   text-transform: none;
   text-decoration: none;
+}
+.RegularNoneMedium {
+  font-size: 16px;
+  font-style: normal;
+  font-family: Inter;
+  font-weight: 500px;
+  font-stretch: normal;
 }
